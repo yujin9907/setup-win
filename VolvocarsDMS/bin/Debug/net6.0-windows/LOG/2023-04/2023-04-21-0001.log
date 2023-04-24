@@ -1,0 +1,14 @@
+2023-04-21 13:43:29.123	Failure	ApiRequester	Get	400, ValidationError
+2023-04-21 14:02:43.544	Failure	FrmBaseCompany	Reload	Cannot send a content-body with this verb-type.
+2023-04-21 14:03:30.581	Failure	FrmBaseCompany	Reload	Cannot send a content-body with this verb-type.
+2023-04-21 14:05:26.340	Failure	FrmBaseCompany	Reload	The requested security protocol is not supported.
+2023-04-21 14:17:15.944	Failure	ApiRequester	Post	500, ServerError
+2023-04-21 14:17:25.154	Failure	ApiRequester	Post	500, ServerError
+2023-04-21 14:21:26.023	Failure	ApiRequester	Post	500, ServerError
+2023-04-21 14:28:16.973	Failure	ApiRequester	Post	응답 메세지를 DATATABLE 형식으로 변환하지 못하였습니다.
+2023-04-21 14:28:30.931	Failure	ApiRequester	Post	응답 메세지를 DATATABLE 형식으로 변환하지 못하였습니다.
+2023-04-21 14:40:46.380	Failure	FrmBaseCompany	Reload	Additional text found in JSON string after finishing deserializing object. Path '[0].comp_fl', line 3, position 14.
+2023-04-21 15:05:09.872	Failure	FrmBaseCompany_F1	simpleButton1_Click	Can not add property comp_nm to Newtonsoft.Json.Linq.JObject. Property with the same name already exists on object.
+2023-04-21 15:05:20.413	Failure	FrmBaseCompany_F1	simpleButton1_Click	Can not add property comp_nm to Newtonsoft.Json.Linq.JObject. Property with the same name already exists on object.
+2023-04-21 15:05:53.386	Failure	ApiRequester	Post	400, ValidationError
+2023-04-21 15:13:37.478	Failure	ApiRequester	Post	201, success

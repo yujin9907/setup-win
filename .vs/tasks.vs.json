@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-FrmBaseCompany",
+      "appliesTo": "VolvocarsDMS/Base/FrmBaseCompany.cs",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-FrmLogin",
+      "appliesTo": "VolvocarsDMS/FrmLogin.cs",
+      "type": "launch"
+    }
+  ]
+}

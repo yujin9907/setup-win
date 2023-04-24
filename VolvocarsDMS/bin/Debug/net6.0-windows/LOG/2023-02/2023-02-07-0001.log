@@ -1,0 +1,7 @@
+2023-02-07 08:16:32.639	Failure	FrmLogin	Login	Error reading JObject from JsonReader. Current JsonReader item is not an object: StartArray. Path '', line 1, position 1.
+2023-02-07 08:17:10.809	Failure	ApiRequester	Post	응답 메세지를 DATATABLE 형식으로 변환하지 못하였습니다.
+2023-02-07 08:17:13.448	Failure	ApiRequester	Post	응답 메세지를 DATATABLE 형식으로 변환하지 못하였습니다.
+2023-02-07 08:17:22.275	Failure	ApiRequester	Post	응답 메세지를 DATATABLE 형식으로 변환하지 못하였습니다.
+2023-02-07 08:22:20.609	Failure	ApiRequester	Get	400, ValidationError
+2023-02-07 08:22:27.479	Failure	ApiRequester	Get	400, ValidationError
+2023-02-07 08:24:46.358	Failure	ApiRequester	Get	400, ValidationError
