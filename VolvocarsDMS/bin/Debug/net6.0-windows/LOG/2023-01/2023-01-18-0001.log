@@ -1,0 +1,12 @@
+2023-01-18 17:23:09.215	Failure	FrmBaseInternal	BtnReload_ItemClick	Specified argument was out of the range of valid values. (Parameter 'start')
+2023-01-18 17:25:31.544	Failure	FrmBaseInternal	BtnReload_ItemClick	Specified argument was out of the range of valid values. (Parameter 'start')
+2023-01-18 19:28:48.999	Failure	ApiRequester	Post	InternalServerError
+2023-01-18 19:28:56.302	Failure	ApiRequester	Post	InternalServerError
+2023-01-18 19:30:46.119	Failure	ApiRequester	Post	InternalServerError
+2023-01-18 19:39:20.535	Failure	ApiRequester	Post	InternalServerError
+2023-01-18 19:41:14.241	Failure	ApiRequester	Post	InternalServerError
+2023-01-18 19:43:19.347	Failure	ApiRequester	Post	InternalServerError
+2023-01-18 19:43:21.471	Failure	ApiRequester	Post	InternalServerError
+2023-01-18 19:43:23.238	Failure	ApiRequester	Post	InternalServerError
+2023-01-18 22:35:06.389	Failure	ApiRequester	Get	InternalServerError
+2023-01-18 22:36:07.429	Failure	ApiRequester	Get	InternalServerError
